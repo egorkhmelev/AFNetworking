@@ -22,6 +22,7 @@
 
 #import <Foundation/Foundation.h>
 #import "AFImageRequestOperation.h"
+#import "AFImageCache.h"
 
 #import <Availability.h>
 
